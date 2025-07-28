@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "C4DevTech",
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -1228,7 +1228,8 @@
     "about.html": {
       "settings": {
         "title": "About",
-        "order": "1"
+        "order": "1",
+        "socialSharingUrl": ""
       },
       "components": [
         {
