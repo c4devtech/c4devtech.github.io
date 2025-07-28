@@ -3451,6 +3451,39 @@ a {
 .cid-uSgoi98Ncq .mbr-card-subtitle {
   color: #000000;
 }
+.cid-uSgLPauMo0 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #edefeb;
+}
+.cid-uSgLPauMo0 .row {
+  flex-direction: row-reverse;
+}
+.cid-uSgLPauMo0 .justify-content-center {
+  align-items: center;
+}
+.cid-uSgLPauMo0 .mbr-section-title {
+  text-align: center;
+}
+.cid-uSgLPauMo0 .mbr-text,
+.cid-uSgLPauMo0 .mbr-section-btn {
+  text-align: center;
+}
+@media (max-width: 767px) {
+  .cid-uSgLPauMo0 .item-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-uSgLPauMo0 .item-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-uSgLPauMo0 .item-wrapper {
+    padding: 4rem;
+  }
+}
 .cid-uSgoiaP2sf {
   z-index: 1000;
   width: 100%;
